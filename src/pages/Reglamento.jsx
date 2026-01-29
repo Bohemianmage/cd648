@@ -16,7 +16,7 @@ export default function Reglamento() {
     'punto6', 'punto7', 'punto8', 'punto9', 'punto10',
     'punto11', 'punto12', 'punto13', 'punto14', 'punto15',
     'punto16', 'punto17', 'punto18', 'punto19', 'punto20',
-    'punto21'
+    'punto21', 'punto22'
   ];
 
   const extras = ['reservaciones', 'cancelaciones'];
